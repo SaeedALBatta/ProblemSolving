@@ -1,0 +1,1 @@
+Write A Program Print The Muliplication Table From 1 To 10 
